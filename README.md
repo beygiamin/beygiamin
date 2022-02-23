@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beygiamin
 - 👀 I’m interested in Web-Dev
-- 🌱 I’m currently learning Html Css
+- 🌱 I’m currently learning IONIC
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me beygoamin@gmail.com
 
