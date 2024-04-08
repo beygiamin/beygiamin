@@ -3,9 +3,15 @@
 I'm Amin Beygi. 
 Welcome to my github profile
 
-## 🧐 About Me
+## 🧐 About Me & 🛠 Skills
 I'm an expert🐐 and skilled👨‍💻 front-end developer
 
+     0. HTML, CSS
+     1. Javascript
+     2. Nodejs
+     3. Angular
+     4. MongoDB
+     5. TypeScript
 
 
 ## 🔗 Links
@@ -53,13 +59,7 @@ I'm an expert🐐 and skilled👨‍💻 front-end developer
 
 
 
-## 🛠 Skills
-     0. HTML, CSS
-     1. Javascript
-     2. Nodejs
-     3. Angular
-     4. MongoDB
-     5. TypeScript
+
 
 
 
