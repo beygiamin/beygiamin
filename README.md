@@ -23,18 +23,6 @@ I'm an expert🐐 and skilled👨‍💻 front-end developer
 
 ## 🤔 
 
-👩‍💻 I'm currently working on:
- 
- Leading and Working Front-end Developer of
- 
-
- [![site](https://www.iraniexpert.com/assets/icon/logo.svg)](https://www.iraniexpert.com/)
- 
-
-& the CMS of this site called (https://www.panel.iraniexpert.com/) which is a private project and just the admins of site has access to all site features.
-
-&nbsp;
-
 🧠 I'm currently learning:
 
 
