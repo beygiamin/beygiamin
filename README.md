@@ -7,15 +7,16 @@ Welcome to my github profile
 I'm an expert🐐 and skilled👨‍💻 MEAN - Stack developer
 
      0. HTML, CSS
-     1. Javascript
+     1. Javascript/TypeScript
      2. Nodejs
-     3. Angular
-     4. ASP .NET
-     5. MongoDB
-     6. TypeScript
+     3. React
+     4. Angular
+     5. ASP .NET
+     6. MongoDB
      7. SQL Server
      8. MySQL
-     9. Nest
+     9.PosgreSQL
+     10. Nest
 
 And I’ve recently started learning the basics of programming with Rust 🦀.
 
