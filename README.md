@@ -25,7 +25,7 @@
 ## `$ whoami`
 
 ```yaml
-name: Mohammad Amin Hasanbeigi
+name: Mohammad Amin Hasanbeygi
 role: Full-Stack Developer
 primary_focus:
   - Backend Engineering
